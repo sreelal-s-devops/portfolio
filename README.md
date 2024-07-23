@@ -11,16 +11,16 @@ Hello! I'm Sreelal S, A dedicated PHP developer with one year of experience.
 
 ## Skills
 -HTML, CSS, Bootstrap, Tailwind, JavaScript, jQuery
-<i class="fab fa-php"></i>
 - WordPress
 - PHP, Laravel
 - Microsoft SQL Server Management Studio
 - Git for version control
+- ![image](https://github.com/user-attachments/assets/0a53ca93-c81e-4e84-9972-7a4a970829ea)
+
 
 ## Projects
 - **Job Portal System**: Currently developing a job portal system in Laravel to enhance my skills in the framework.
-- **Weather App**: Built a weather app using a free API in Laravel with Sanctum.
-
+- 
 ## Education
 - Bachelor's degree in Computer Applications from the University of Kerala
 
