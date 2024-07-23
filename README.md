@@ -10,7 +10,8 @@ Hello! I'm Sreelal S, A dedicated PHP developer with one year of experience.
   - Designed and implemented responsive web interfaces using Bootstrap, CSS, and HTML.
 
 ## Skills
-![image](https://github.com/user-attachments/assets/b58a50e0-4ace-4cf1-b4dd-3512d6de933f) ![image](https://github.com/user-attachments/assets/09cc0a37-52fd-4dce-83b9-3031449d24ee)
+![image](https://github.com/user-attachments/assets/b58a50e0-4ace-4cf1-b4dd-3512d6de933f) ![image](https://github.com/user-attachments/assets/09cc0a37-52fd-4dce-83b9-3031449d24ee),![image](https://github.com/user-attachments/assets/6d042781-5fae-47c5-961d-7378e6d5ec6c)
+
 
 -HTML, CSS, Bootstrap, Tailwind, JavaScript, jQuery
 - WordPress
