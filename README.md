@@ -11,7 +11,7 @@ Hello! I'm Sreelal S, A dedicated PHP developer with one year of experience.
 
 ## Skills
 -HTML, CSS, Bootstrap, Tailwind, JavaScript, jQuery
-https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
+<i class="fab fa-php"></i
 - WordPress
 - PHP, Laravel
 - Microsoft SQL Server Management Studio
