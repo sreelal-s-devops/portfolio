@@ -15,7 +15,8 @@ Hello! I'm Sreelal S, A dedicated PHP developer with one year of experience.
 - PHP, Laravel
 - Microsoft SQL Server Management Studio
 - Git for version control
-- ![image](https://github.com/user-attachments/assets/0a53ca93-c81e-4e84-9972-7a4a970829ea)
+![image](https://github.com/user-attachments/assets/b58a50e0-4ace-4cf1-b4dd-3512d6de933f)
+
 
 
 ## Projects
