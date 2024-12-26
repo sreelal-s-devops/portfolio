@@ -1,7 +1,7 @@
 # About Me
 
 ## Introduction
-Hello! I'm Sreelal S, A dedicated PHP developer with one year of experience.
+Hello! I'm Sreelal S, A dedicated PHP developer with 1+ years of experience.
 
 ## Professional Experience
 - **Assistant Software Engineer** at DRD Communications, Kochi
